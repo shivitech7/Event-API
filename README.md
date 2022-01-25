@@ -12,7 +12,7 @@ This contains 4 API's:
 - Event API
 
 **APPROACH**
-- Every profile image or any document upladed in event page instantly uploaded to database and in return gets the file path.
+- Every profile image or any document uploaded in event page instantly uploaded to database and in return gets the file path.
 
 - Similarly when a speaker and moderators are created, instantly stored in their respective collections and in return as 
   API response get's speake'r Id and moderato'r Id (for now the entire speaker and moderator data is sent as json res.).
